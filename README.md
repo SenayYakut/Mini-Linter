@@ -9,6 +9,7 @@ This is the same type of work that word processing software does. Additionally, 
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/Mini-Linter.git
 ```
 
 ## Usage
